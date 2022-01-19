@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW8_Maktab67_part2</string>
+    <string name="player_one">player one</string>
+    <string name="player_two">player two</string>
+    <string name="player_one_win">Player One Win</string>
+    <string name="player_two_win">Player Two Win</string>
+    <string name="play_again">Play Again</string>
+    <string name="startScore">0</string>
+    <string name="playerOneZero">player one: 0</string>
+    <string name="playerTwoZero">player two: 0</string>
+</resources>
